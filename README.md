@@ -64,6 +64,9 @@ TeXt 使用 [Tomorrow](https://github.com/chriskempson/tomorrow-theme) 作为它
 
 ### 内容
 
+
+<iframe src="//player.bilibili.com/player.html?aid=425717560&bvid=BV1h3411n7xD&cid=577206759&page=1" width="659" height="360" frameborder="no" allowfullscreen="true">
+	</iframe>
 - [撰写博客](https://tianqi.name/jekyll-TeXt-theme/docs/zh/writing-posts)
 - [附加样式](https://tianqi.name/jekyll-TeXt-theme/docs/zh/additional-styles)
 - [扩展](https://tianqi.name/jekyll-TeXt-theme/docs/zh/extensions)
