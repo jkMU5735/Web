@@ -5,7 +5,6 @@
 
 TeXt 是针对个人或团队网站、博客、项目、文档等的一款高度可定制的 Jekyll 主题。它参考了 iOS 11 的风格，有大而突出的标题和圆润的按钮及卡片。
 
-**[English](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README.md)**
 
 ## 特性
 
@@ -65,8 +64,7 @@ TeXt 使用 [Tomorrow](https://github.com/chriskempson/tomorrow-theme) 作为它
 ### 内容
 
 
-<iframe src="//player.bilibili.com/player.html?aid=425717560&bvid=BV1h3411n7xD&cid=577206759&page=1" width="659" height="360" frameborder="no" allowfullscreen="true">
-	</iframe>
+<iframe src="[//player.bilibili.com/player.html?aid=425717560&bvid=BV1h3411n7xD&cid=577206759&page=1](https://player.bilibili.com/player.html?aid=425717560&bvid=BV1h3411n7xD&cid=577206759&page=1)" width="659" height="360" frameborder="no" allowfullscreen="true"></iframe>
 - [撰写博客](https://tianqi.name/jekyll-TeXt-theme/docs/zh/writing-posts)
 - [附加样式](https://tianqi.name/jekyll-TeXt-theme/docs/zh/additional-styles)
 - [扩展](https://tianqi.name/jekyll-TeXt-theme/docs/zh/extensions)
